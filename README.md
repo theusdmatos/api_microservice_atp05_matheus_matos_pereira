@@ -132,7 +132,7 @@ curl -X POST "http://localhost:8000/contacts/" \
   }'
 ```
 
-**Resultado:** Nome formatado para "João da Silva" e telefones para "(00) 00000-0000" e "(00) 0000-0000"
+**Resultado:** Nome formatado para "Wesley Krebs" e telefones para "(18) 99999-8888" e "(19) 3333-4444"
 
 ### Buscar por Nome
 ```bash
